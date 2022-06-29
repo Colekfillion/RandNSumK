@@ -1,6 +1,6 @@
 # RandNSumK
 
-Generates an array of N random, whole numbers whose sum is K, where N > 1 and K > 0. 
+Generates an array of N random, whole numbers whose sum is K, where N > 1 and K > 0. <br>
 The function itself is rand_n_sum_k(n, k).
 
 I mostly use this for percentages; for example, given 100(K) assorted fruits of 3(N) different types, 29 are apples, 41 are oranges, and 30 are peaches.
